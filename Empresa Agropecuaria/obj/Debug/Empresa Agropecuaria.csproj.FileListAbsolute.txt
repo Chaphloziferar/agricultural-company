@@ -1,0 +1,18 @@
+c:\users\john\documents\visual studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\bin\Debug\Empresa Agropecuaria.exe.config
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa_Agropecuaria.Properties.Resources.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa_Agropecuaria.Ventana_Principal.resources
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.csproj.GenerateResource.Cache
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\bin\Debug\Empresa Agropecuaria.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\bin\Debug\Empresa Agropecuaria.pdb
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.exe
+C:\Users\John\Documents\Visual Studio 2015\Projects\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.pdb
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\bin\Debug\Empresa Agropecuaria.exe.config
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.exe
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.pdb
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\bin\Debug\Empresa Agropecuaria.exe
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\bin\Debug\Empresa Agropecuaria.pdb
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.csprojResolveAssemblyReference.cache
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa_Agropecuaria.Properties.Resources.resources
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa_Agropecuaria.Ventana_Principal.resources
+C:\Users\John\Documents\Git\Empresa Agropecuaria\Empresa Agropecuaria\obj\Debug\Empresa Agropecuaria.csproj.GenerateResource.Cache
